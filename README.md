@@ -1,6 +1,6 @@
 # Hello, my name is Jacob Groll, welcome to my page! ✌️
 
-<a href="mailto:jdg2718@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jdg2718@gmail.com">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
