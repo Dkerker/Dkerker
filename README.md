@@ -12,7 +12,7 @@ I'm a student and aspiring software developer with a passion for building practi
 - 🔭 I’m currently working on improving my skills in game development and data-driven applications.
 - 🌱 I’m currently learning computer architecture and organization.
 - 👯 I’m looking to collaborate on interesting open-source projects.
-- 📫 How to reach me: jdg2718@gmail.com
+- 📫 How to reach me: [jdg2718@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=jdg2718@gmail.com)
 
 ---
 
