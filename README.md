@@ -1,8 +1,10 @@
 # Hello, my name is Jacob Groll, welcome to my page! ✌️
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jdg2718@gmail.com">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img width="22px" alt="image" src="https://github.com/user-attachments/assets/d508e60a-a208-405e-a2ac-fbf525c27e35" />
 </a>
+
+
 
 <br />
 <br />
