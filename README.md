@@ -11,7 +11,7 @@
 
 Student
 
-- 📫 How to reach me: [jdg2718@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=jdg2718@gmail.com)
+- 📫 How to reach me: [jacobdgroll@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=jacobdgroll@gmail.com)
 
 ---
 
